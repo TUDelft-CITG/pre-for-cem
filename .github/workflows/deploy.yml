@@ -1,0 +1,48 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "book/**"
+      - ".github/workflows/**"
+      - "requirements.txt"
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build-book:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.10"
+
+      - name: Setup virtual environment
+        uses: syphar/restore-virtualenv@v1
+        with:
+          requirement_files: requirements.txt
+
+      - name: Setup pip cache
+        uses: syphar/restore-pip-download-cache@v1
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      
+      - name: Install dependencies
+        run: pip install requirements.txt
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+
+      - name: Build book
+        run: jupyter book build book/
+
+      - name: Deploy book
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: book/_build/html/
