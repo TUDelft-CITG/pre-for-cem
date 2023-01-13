@@ -1,0 +1,18 @@
+title: Prerequisite Knowledge for Civil Engineering Master
+author: TU Delft, Faculty of Civil Engineering and Geosciences
+logo: images/logo.png
+
+execute:
+  execute_notebooks: auto
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+bibtex_bibfiles:
+  - references.bib
+
+repository:
+  url: https://github.com/TUDelft-CITG/pre-for-cem
+  path_to_book: book
+  branch: main

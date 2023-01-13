@@ -1,0 +1,5 @@
+format: jb-book
+root: contents/home
+
+chapters:
+- file: contents/materials
