@@ -9,7 +9,7 @@ chapters:
 - file: contents/mechanics
 - file: contents/transport
 - file: contents/mathematics
-- file: contents/otherfundamentals
 - file: contents/generalskills
+- file: contents/otherfundamentals
 - file: contents/programming
 
