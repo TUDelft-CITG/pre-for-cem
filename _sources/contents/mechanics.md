@@ -2,7 +2,7 @@
 
 The following topics on **mechanics** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Material |
+|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
 |:------|:--------|:------------------|:---------------------------|
 | Statics 1       | Composing and decomposing forces, both analytically and graphically                                                                                                                             | [CTB1110](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45038) |[Worked examples](https://study.com/skill/learn/decomposing-two-or-more-forces-acting-on-an-object-in-arbitrary-directions-into-perpendicular-components-explanation.html)
 |                      | Statically equivalent force systems, moment of a force, couples, equilibrium of moments and forces                                                                                                                                        |                               |[Forces and moments in equilibrium ](https://study.com/skill/learn/decomposing-two-or-more-forces-acting-on-an-object-in-arbitrary-directions-into-perpendicular-components-explanation.html)  
@@ -53,3 +53,4 @@ The following topics on **mechanics** are considered prerequisite knowledge for 
 |                      | Responsibilities in design and construction                                                                                                                                 |                                 |
 |                      | Safety measures related to construction                                                                                                                                 |                                 |
 
+[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge was approved by our Board of Examiners. The last column with Open Educational Resources (OER) is not. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good.
