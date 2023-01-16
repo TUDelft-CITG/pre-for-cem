@@ -2,7 +2,7 @@
 
 The following topics on **structures** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Material |
+|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
 |:------|:--------|:------------------|:---------------------------|
 | General       | Basics of structural design    | [CTB1410-20](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61941)   [CTB2220-14](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61996)    [CTB2320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62002)|[Eurocode 1990](https://www.kivi.nl/uploads/media/5df262e9d44ef/CEN-TC250_N2311_prEN%201990_Basis%20of%20structural%20and%20geotechnical%20design%20(Third%20revised%20draft%20MG%202019_09_11).pdf)
 |                      | Loads and load combinations                                                                                                                                        |                                 |[Eurocode 1991](https://www.phd.eng.br/wp-content/uploads/2015/12/en.1991.1.1.2002.pdf)
@@ -30,5 +30,5 @@ The following topics on **structures** are considered prerequisite knowledge for
 |                      | Connections by welding or bolts                                                                                                                                        |                                 |[Bolted steel connections](https://dorothydingzx.github.io/2018/01/11/Bolted-connections-in-Eurocode-3-1/)
 | Hydraulic Structures       | Dikes, embankments, dams    |   [CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)|
 |                      | Bridge piers, quays & jetties, construction pits, storm surge barriers, dams, locks/sluices, immersed and bored tunnels                                                                                                                                        |                                 |
-
+[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge was approved by our Board of Examiners. The last column with Open Educational Resources (OER) is not. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good.
 
