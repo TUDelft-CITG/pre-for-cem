@@ -2,7 +2,7 @@
 
 The following topics on **geo-engineering** are considered prerequisite knowledge for the civil engineering MSc-programme:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Material |
+|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
 |:------|:--------|:------------------|:---------------------------|
 | soil mechanics       | Soil Characteristics: Classification and mineralogy of soils; Grains, grain size distribution and porosity.                                                                                                                             | [CTB2310](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58427)  [CTB1410-20](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58366)  [CTB2320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=58428) |
 |                      | Groundwater: Pore pressure and effective stress; Darcy’s law, permeability and groundwater flow.                                                                                                                                        |                                 |
@@ -17,3 +17,4 @@ The following topics on **geo-engineering** are considered prerequisite knowledg
 |                      | Practical foundation design in collaboration with the structural engineer                                                                                                                                                               |                                 |
 | retaining structures | Lateral earth pressure at rest; Passive and active pressures; Rankine; Coulomb; Sheet pile walls; Blum.                                                                                                                                 |                                 |
 | slope stability      | Limit equilibrium methods; vertical slope; infinite slope; method of slices; Fellenius; Bishop                                                                                                                                          |                                 |
+[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge was approved by our Board of Examiners. The last column with Open Educational Resources (OER) is not. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good.
