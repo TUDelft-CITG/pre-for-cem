@@ -2,7 +2,7 @@
 
 The following topics on **Mathematics** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Material |
+|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
 |:------|:--------|:------------------|:---------------------------|
 | Pre-university calculus | elementary functions, like power functions, roots, polynomials, trigonometric functions, exponential and logarithmic functions  | | [TU Delft online learning](https://online-learning.tudelft.nl/courses/pre-university-calculus) |
 | | equations and inequalities involving these elementary functions | | 
@@ -41,3 +41,4 @@ The following topics on **Mathematics** are considered prerequisite knowledge fo
 |                      | Combine a finite difference method with a numerical time-integration method                                                                                                                                         |                                 | 
 |                      | Select appropriate numerical methods                                                                                                                                         |                                 | 
                            
+[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge was approved by our Board of Examiners. The last column with Open Educational Resources (OER) is not. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good.
