@@ -4,7 +4,7 @@ The following topics on **fluids** are considered prerequisite knowledge for the
 
 |Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1]  |
 |:------|:--------|:------------------|:---------------------------|
-| Fluid dynamics for engineers      | Fluid properties    | [CTB2110](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61993)   |
+| Fluid dynamics for engineers      | Fluid properties    | [CTB2110](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61993)   | No OER collected yet
 | Mechanics of fluids                     | Hydrostatics                                                                                                            |                                 |
 | Engineering fluid mechanics                    | Kinematics                                                                                                            |                                 |
 |                    | Piezometric head, velocity head, energy head                                                                                                           |                                 |
