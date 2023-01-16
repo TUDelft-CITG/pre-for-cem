@@ -1,8 +1,8 @@
 # Programming
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
+|Topic category|Topic   |Taught in Delft in  | Open Educational Resources [^1] |
 |:------|:--------|:------------------|:---------------------------|
-| Python      | Basics                                                                           | [CTB2000-20](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61981&_NotifyTextSearch_) |
+| Python      | Basics                                                                           | [CTB2000-20](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61981&_NotifyTextSearch_) | No OER collected yet
 |                      | Variables, Constants, Operators and Expressions                                                                                             |                                 |
 |                      | Common data types (e.g., int, float, strings, chars, boolean)                                                                               |                                 |
 |                      | Basic data structures: lists, tuples, dictionaries and sets                                                                                 |                                 |
@@ -16,4 +16,5 @@
 |                      | Numpy array manipulation: sorting, indexing and slicing, reshaping and transpose, joining arrays                                            |                                 |
 |                      | Basic plotting with matplotlib                                                                                                              |                                 |
 |                      | Roots and bugs                                                                                                                               |                                 |
+
 [^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
