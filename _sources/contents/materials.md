@@ -4,7 +4,7 @@ The following topics on **materials** are considered prerequisite knowledge for 
 
 |Topic category|Topic   |Taught in Delft in  | Open Educational Resources [^1] |
 |:------|:--------|:------------------|:---------------------------|
-| Materials      | Chemical bonding in materials                                                                                                                            | [CTB1320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61974) |
+| Materials      | Chemical bonding in materials                                                                                                                            | [CTB1320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61974) | No OER collected yet. Suggestions are welcome at [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem)
 |                      | Crystal structures and dislocations                                                                                                                                        |                                 |
 |                      | Mechanical properties of materials, fracture, fatigue                                                                                                                                        |                                 |
 |                      | Phases and phase diagrams                                                                                                                                       |                                 |
