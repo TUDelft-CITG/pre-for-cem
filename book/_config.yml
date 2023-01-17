@@ -16,3 +16,8 @@ repository:
   url: https://github.com/TUDelft-CITG/pre-for-cem
   path_to_book: book
   branch: main
+
+# GitHub Issues button and repository link
+html:
+  use_repository_button: true
+  use_issues_button: true
