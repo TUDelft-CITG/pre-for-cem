@@ -4,9 +4,10 @@ The following topics on **materials** are considered prerequisite knowledge for 
 
 |Topic category|Topic   |Taught in Delft in  | Open Educational Resources [^1] |
 |:------|:--------|:------------------|:---------------------------|
-| Materials      | Chemical bonding in materials                                                                                                                            | [CTB1320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61974) | No OER collected yet.
+| **Materials**:     |
+ [CTB1320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61974)                                                                                                                            | Chemical bonding in materials | 
 |                      | Crystal structures and dislocations                                                                                                                                        |                                 |
-|                      | Mechanical properties of materials, fracture, fatigue                                                                                                                                        |                                 |
+|                      | Mechanical properties of materials, fracture, fatigue                                                                                                                                        |                                 |[Mechanical properties](https://www.nde-ed.org/Physics/Materials/Mechanical/Mechanical.xhtml);[Fracture](https://www.nde-ed.org/Physics/Materials/Mechanical/FractureToughness.xhtml);[Fatigue](https://www.nde-ed.org/Physics/Materials/Mechanical/Fatigue.xhtml)
 |                      | Phases and phase diagrams                                                                                                                                       |                                 |
 |                      | Metallic construction materials                                                                                                                                        |                                 |
 |                      | Natural rocks and aggregates                                                                                                                                        |                                 |
