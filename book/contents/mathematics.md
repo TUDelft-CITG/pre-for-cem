@@ -7,10 +7,10 @@ The following topics on **Mathematics** are considered prerequisite knowledge fo
 |Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
 |:------|:--------|:------------------|:---------------------------|
 | Pre-university calculus | elementary functions, like power functions, roots, polynomials, trigonometric functions, exponential and logarithmic functions  | | [TU Delft online learning](https://online-learning.tudelft.nl/courses/pre-university-calculus) |
-| | equations and inequalities involving these elementary functions | | 
-| | differentiation and derivatives of compositions of elementary functions | |
-| |  integration and elementary integration techniques | |
-| | geometric objects in the plane, such as vectors, lines, circles and more general curves | | 
+| | Equations and inequalities involving these elementary functions | | [Equations and inequalities with examples](https://math.fel.cvut.cz/en/mt/txtz/0/txe3za0a.htm)
+| | Differentiation and derivatives of compositions of elementary functions | |[Differentiation rule (Chain rule) with examples](https://www.geeksforgeeks.org/derivatives-of-composite-functions/)
+| |  Integration and elementary integration techniques | |[Integration techniques](https://www.khanacademy.org/math/calculus-all-old/integration-techniques-calc)
+| | Geometric objects in the plane, such as vectors, lines, circles and more general curves | | 
 | Calculus      | Basic integration (multiple integrals), and differentiation (derivatives, partial derivatives, numerical differentiation)                                                                                                                            | [CTB1001-16](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61945);   [AESB1211](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62062);  [CTB2200](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61196);  [AESB2440](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62089)|
 |                      | Taylor polynomials                                                                                                                                         |                                 |
 |                      | Cylindrical and spherical coordinates                                                                                                                                         |                                 |
