@@ -16,14 +16,12 @@ defaults:
     shell: bash
 
 jobs:
-  build-book:
+  test-book:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          ref: publish
 
       - name: Setup Python
         uses: actions/setup-python@v1
