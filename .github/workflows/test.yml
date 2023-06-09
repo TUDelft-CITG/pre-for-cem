@@ -1,15 +1,14 @@
-# This script deploys the Jupyter Book to the GitHub Pages website
+# This script tests if the Jupyter Book builds correctly
 
-name: deploy
+name: test
 
 on:
   push:
     branches:
-      - publish
-    paths:
-      - "book/**"
-      - ".github/workflows/**"
-      - "requirements.txt"
+      - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 defaults:
@@ -17,14 +16,12 @@ defaults:
     shell: bash
 
 jobs:
-  build-book:
+  test-book:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          ref: publish
 
       - name: Setup Python
         uses: actions/setup-python@v1
@@ -46,8 +43,3 @@ jobs:
 
       - name: Build book
         run: jupyter book build book/
-
-      - name: Deploy book
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: book/_build/html/
