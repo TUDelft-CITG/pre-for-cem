@@ -2,14 +2,14 @@
 
 The following topics on **fluids** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1]  |
-|:------|:--------|:------------------|:---------------------------|
+|Subject|Topic category / Learning objectives   |Open Educational Resources[^1]|Remarks |
+|:------|:-------------|:------------------|:---------------------------|
 | Fluid dynamics for engineers      | Fluid properties    | [CTB2110](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61993)   | No OER collected yet
 | Mechanics of fluids                     | Hydrostatics                                                                                                            |                                 |
 | Engineering fluid mechanics                    | Kinematics                                                                                                            |                                 |
 |                    | Piezometric head, velocity head, energy head                                                                                                           |                                 |
 | Hydraulics                    | Balance equations (mass, momentum, energy)                                                                                                            |                                 |
-| Open channel hydraulics                   | Euler and Bernoulli                                                                                                            |                                 |
+| Open channel hydraulics                   | Euler and Bernoulli                                                                                                            |- [What is Bernoulli's equation?](https://www.khanacademy.org/science/physics/fluids/fluid-dynamics/a/what-is-bernoullis-equation)                               |
 | Open channel flow                   | Backwater physcis and backwater equation                                                                                                           |                                 |
 |                    | Shallow water equations                                                                                                           |                                 |
 |                    | Wave classification                                                                                                           |                                 |
