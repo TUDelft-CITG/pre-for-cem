@@ -15,7 +15,7 @@ bibtex_bibfiles:
 repository:
   url: https://github.com/TUDelft-CITG/pre-for-cem
   path_to_book: book
-  branch: main
+  branch: publish
 
 # GitHub Issues button and repository link
 html:
