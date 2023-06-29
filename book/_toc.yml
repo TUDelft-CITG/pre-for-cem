@@ -4,7 +4,7 @@ root: contents/home
 chapters:
 - file: contents/materials
 - file: contents/geo-engineering
-- file: contents/structures
+- file: contents/structures divided
 - file: contents/fluids
 - file: contents/mechanics
 - file: contents/transport
