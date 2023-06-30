@@ -2,8 +2,6 @@
 
 The civil engineering MSc-program requires prior knowledge of four subjects related to **structures**. Proficiency in these subjects is considered a prerequisite for admission. Each subject covers various topics, which are expected to be familiar to applicants:
 
----
-
 ```{admonition} General
 :class: tip, dropdown
 
