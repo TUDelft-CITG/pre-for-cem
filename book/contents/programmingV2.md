@@ -1,0 +1,15 @@
+# Programming
+
+Welcome to the Python [Programming Course](https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html). The python course can be accessible for free and everywhere in the world. The course is designed to prepare you for your MSc program in civil engineering at TU Delft. It will also you help you build a solid foundation in programming that will benefit you throughout your academic and professional career.
+
+To enter the course please click on this [link](https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html) or visit: 
+
+https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html
+
+### How to take the course: 
+
+It’s really quite simple: read through the 3 Chapters in the Introduction part, then get started with the Theory and Exercises under the `Course Contents`! In particular, the Python Toolbox Chapter describes how you can run Python code to solve the exercises. The last part of this course is called In a Nutshell; these are very concise recaps of the content from the main chapters in Course Contents. The idea is that you use these as a quick reference and review of the concepts, before and after the course.
+
+
+[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
+
