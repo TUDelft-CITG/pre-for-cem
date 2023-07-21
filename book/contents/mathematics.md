@@ -4,7 +4,7 @@ The math and civil engineering faculties at TU Delft offer several online course
 
 The following topics on **Mathematics** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
+|Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
 | Pre-university calculus | elementary functions, like power functions, roots, polynomials, trigonometric functions, exponential and logarithmic functions  | | [TU Delft online learning](https://online-learning.tudelft.nl/courses/pre-university-calculus) |
 | | Equations and inequalities involving these elementary functions | | [Equations and inequalities with examples](https://math.fel.cvut.cz/en/mt/txtz/0/txe3za0a.htm)
