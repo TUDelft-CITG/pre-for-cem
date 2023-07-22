@@ -3,7 +3,7 @@
 The civil engineering MSc-program requires prior knowledge of four subjects related to **structures**. Proficiency in these subjects is considered a prerequisite for admission. Each subject covers various topics, which are expected to be familiar to applicants:
 
 ---
-```{admonition} General
+#```{admonition} General
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -19,10 +19,10 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Technical drawing and set-up of hand calculations  <details><summary>Student is:</summary> - Familiar with interpreting and understanding engineering technical drawings <br>- Capable of making simple design calculations by hand and by computer</details>                                                                                                                                                                               |[Technical drawings: investigate table of content](https://www.designingbuildings.co.uk/wiki/Technical_drawing)
 |                      | Stability and fixation of degrees of freedom <details><summary>Student can:</summary> - Identify the stability elements of a structure <br>- Identify the degrees of freedom of individual elements in a structure </details>                                                                                                                                       | [Stability and Determinacy ](https://learnaboutstructures.com/Stability-Determinacy)                                |Go through 2.1 to 2.7
 |                      | Construction methods <details><summary>Student can:</summary>- Identify most applicable construction methods for a given project  <br>- Identitfy the pros and cons of (different) construction methods </details>                                                                                                                                                             |[Top-Down construction method ](https://theconstructor.org/construction/top-down-construction/567534/)||
-```
+#```
 ---
 
-```{admonition} Concrete structures
+#```{admonition} Concrete structures
 :class: tip, dropdown
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -33,10 +33,10 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Detailing of concrete and reinforcement  <details><summary>Student can:</summary>- Make simple hand calculation to determine the minimum required reinforcement for different structural elements and verify them  </details>                                                                                                                                      |[Beam reinforcement detailing ](https://www.structuralguide.com/beam-reinforcement-detailing/)                                 |
 |                      | Crack-width control <details><summary>Student can:</summary>- Make simple hand calculation to determine the crack width for different structural elements and control their size  </details>                                                                                                                                       | [Crack-width control ](https://www.si-eng.org/post/the-calculation-of-crack-width#:~:text=The%20most%20fundamental%20underlying%20principle,the%20reinforcement%20and%20the%20concrete.)                                |
 |                      | Deformation of concrete structures  <details><summary>Student can:</summary>- Identify how structures can deform and the effects deformation can cause  </details>                                                                                                                                      |[Defects in Concrete Structures  ](https://theconstructor.org/concrete/concrete-defects-types-causes-prevention/8581/#:~:text=Different%20types%20of%20defects%20in,to%20various%20reasons%20or%20causes.)                                 ||
-```
+#```
 ---
 
-```{admonition} Steel structures
+#```{admonition} Steel structures
 :class: tip, dropdown
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -48,17 +48,17 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Stability of elements of structures   <details><summary>Student can:</summary>- Identify (different) stability elements in steel load-bearing structures <br>- Do a simple hand calculation to verify the stability of the bearing capacity for different steel elements   </details>                                                                                                                                     |  [Buckling resistance of members: see chapter 3.2 to 3.8](https://repository.tudelft.nl/islandora/object/uuid:60760487-942a-41f1-a464-6e1362801c42/datastream/OBJ/download)                               |
 |                      | Trusses and frames <details><summary>Student can:</summary>- Identify the difference between trusses and frames <br>- Do a simple hand calculation to verify the the bearing capacity for different steel elements in trusses and frames   </details>                                                                           |- [Trusses](http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1200.htm) <br>-  [Frames](http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1100.htm)                                  | 
 |                      | Connections by welding or bolts   <details><summary>Student can:</summary>- Identify the difference between welded and bolted connections <br>- Do a simple hand calculation to verify the the bearing capacity of a steel connection   </details>                                                                                                                                     |[Bolted steel connections](https://dorothydingzx.github.io/2018/01/11/Bolted-connections-in-Eurocode-3-1/)  ||
-```
+#```
 --- 
 
-```{admonition} Hydraulic structures 
+#```{admonition} Hydraulic structures 
 :class: tip, dropdown
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
 | Hydraulic Structures <br> [CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)      | Dikes, embankments, dams <details><summary>Student can:</summary>- Identify the difference between dikes,embankments and dams <br>- Recognize the required steps needed to design dikes, embankments and dams   </details> |[Dikes, embankments, dams](https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6708e/x6708e06.htm)   |
 |                      | Bridge piers, quays & jetties, construction pits, storm surge barriers, dams, locks/sluices, immersed and bored tunnels  <details><summary>Student can:</summary>- Recognize the difference between these different hydraulic structures structures    </details>                                                                                                                                      |- [Bridge piers](https://tigertmt.com/blog/bridge-piers-types-and-functions.php#:~:text=A%20bridge%20pier%20is%20a,both%20vertical%20and%20horizontal%20loads.) <br>- [Quays & jetties](https://www.google.com/search?q=quays+%26+jetties&sxsrf=APwXEde5ghqjhyX9OekPG1iM5Vljt1qOgw%3A1685647942682&ei=RvJ4ZI2gKYe6sAfpm7zICA&ved=0ahUKEwiN29v256L_AhUHHewKHekND4kQ4dUDCA8&uact=5&oq=quays+%26+jetties&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIHCCEQoAEQCjIHCCEQoAEQCjIHCCEQoAEQCjIHCCEQoAEQCjIMCCEQFhAeEA8QHRAKOgcIIxDqAhAnSgQIQRgAUNQEWNQEYI4IaAFwAHgAgAF5iAF5kgEDMC4xmAEAoAEBoAECsAEKwAEB&sclient=gws-wiz-serp#fpstate=ive&vld=cid:b5ea6de9,vid:AEfsxLPF_cU) <br>- [construction pits](https://gudconsult.de/en/construction-pits) <br>- [Storm surge barriers](https://www.rijkswaterstaat.nl/en/water/water-safety/storm-surge-barriers) <br>- [Dams](https://theconstructor.org/water-resources/forces-acting-dam-structure/5251/) <br>- [Locks/sluices](https://www.europeanwaterways.com/blog/how-do-canal-locks-work/#:~:text=Sluices%20are%20opened%20and%20closed,the%20lock%20gates%20are%20shut.) <br>- [Immersed tunnels](https://www.aurecongroup.com/insights/immersed-tunnelling#:~:text=An%20immersed%20tunnel%20is%20an,place%20and%20then%20linked%20together.) <br>- [Bored tunnels](https://ponce.sdsu.edu/cive395fall04group07.html)                                 ||
-```
+#```
 --- 
 
 
