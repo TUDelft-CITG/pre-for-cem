@@ -5,7 +5,6 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 ---
 
 ```{admonition} General
-
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -20,8 +19,7 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Design skills, design cycle <details><summary>Student is:</summary> - Familiar with the Engineering design cycle <br>- Capable of making simple design calculations by hand and by computer</details>                                                                                                                                                                       |- [Design skills](https://ocw.tudelft.nl/course-lectures/1-3-4-lecture-the-engineering-design-cycle/)   <br>- [Design cycle](https://ocw.tudelft.nl/course-lectures/1-3-4-lecture-the-engineering-design-cycle/)
 |                      | Technical drawing and set-up of hand calculations  <details><summary>Student is:</summary> - Familiar with interpreting and understanding engineering technical drawings <br>- Capable of making simple design calculations by hand and by computer</details>                                                                                                                                                                               |[Technical drawings: investigate table of content](https://www.designingbuildings.co.uk/wiki/Technical_drawing)
 |                      | Stability and fixation of degrees of freedom <details><summary>Student can:</summary> - Identify the stability elements of a structure <br>- Identify the degrees of freedom of individual elements in a structure </details>                                                                                                                                       | [Stability and Determinacy ](https://learnaboutstructures.com/Stability-Determinacy)                                |Go through 2.1 to 2.7
-|                      | Construction methods <details><summary>Student can:</summary>- Identify most applicable construction methods for a given project  <br>- Identitfy the pros and cons of (different) construction methods </details>                                                                                                                                                             |[Top-Down construction method ](https://theconstructor.org/construction/top-down-construction/567534/)||
-```
+|                      | Construction methods <details><summary>Student can:</summary>- Identify most applicable construction methods for a given project  <br>- Identitfy the pros and cons of (different) construction methods </details>                                                                                                                                                             |[Top-Down construction method ](https://theconstructor.org/construction/top-down-construction/567534/)||```
 ---
 
 ```{admonition} Concrete structures
