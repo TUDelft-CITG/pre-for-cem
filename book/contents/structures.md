@@ -4,7 +4,8 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 
 ---
 
-```{General} 
+```{admonition} General
+
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
