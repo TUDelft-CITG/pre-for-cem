@@ -4,14 +4,11 @@ root: contents/home
 chapters:
 - file: contents/materials
 - file: contents/geo-engineering
-- file: contents/structures divided
+- file: contents/structures
 - file: contents/fluids
-- file: contents/mechanicsV1
-- file: contents/mechanicsV2
+- file: contents/mechanics
 - file: contents/transport
 - file: contents/mathematics
 - file: contents/generalskills
 - file: contents/otherfundamentals
-- file: contents/programmingV2
-- file: contents/Structures try out
-- file: contents/structures copy
+- file: contents/programming
