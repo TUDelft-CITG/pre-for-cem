@@ -18,7 +18,7 @@ The project was carried out by:
 - Mehmet Kisa, MSc (project lead)
 - Ahmed Farahat, BSc and (student assistant)
 - Diana Portillo Arreguin, BSc (student assistant)
-under supervision of Dr. Roel Schipper (project initiator). 
+- under supervision of Dr. Roel Schipper (project initiator). 
 
 ## Disclaimer
 This is an experimental Jupyter Book, part of an educational research project. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions).
