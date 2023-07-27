@@ -3,7 +3,7 @@
 This Jupyter Book aims to provide you with easy access to an overview of prerequisite knowledge needed to successfully start our MSc degree Civil Engineering at TU Delft. You can check yourself whether you have the necessary knowledge, and estimate which subjects you may need to repair or refresh before coming to Delft. The Jupyter Book was made in the educationalal research project called PRE-for-CEM (PRErequisite knowledge for Civil Engineering Master) during 2022 and 2023, and is still work in progress.
 
 ## Which subjects?
-We have identified knowledge of the following subjects as crucial for a successful start of our degree:
+The Admission Committee for the MSc degree Civil Engineering have identified knowledge of the following subjects as crucial for a successful start of our degree:
 ```{tableofcontents}
 ```
 
