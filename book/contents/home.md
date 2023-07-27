@@ -19,6 +19,7 @@ The project was carried out by:
 - Ahmed Farahat, BSc and (student assistant)
 - Diana Portillo Arreguin, BSc (student assistant)
 - dr. Roel Schipper (project initiator)
+
 and with the support of many professors who have provided reference materials and verified the selected sources.
 
 ## Disclaimer
