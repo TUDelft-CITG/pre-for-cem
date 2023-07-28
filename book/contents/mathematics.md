@@ -14,7 +14,7 @@ The following topics on **Mathematics** are considered prerequisite knowledge fo
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]|Remarks |
 |:------|:-------------|:------------------|:---------------------------|
-| Pre-university calculus | elementary functions, like power functions, roots, polynomials, trigonometric functions, exponential and logarithmic functions  | | [TU Delft online learning](https://online-learning.tudelft.nl/courses/pre-university-calculus) |
+| Pre-university calculus | elementary functions, like power functions, roots, polynomials, trigonometric functions, exponential and logarithmic functions  | |  |
 | | equations and inequalities involving these elementary functions | | 
 | | differentiation and derivatives of compositions of elementary functions | |
 | |  integration and elementary integration techniques | |
@@ -30,7 +30,7 @@ The following topics on **Mathematics** are considered prerequisite knowledge fo
 |                      | Solving systems of linear equations                                                                                                                                          |                                 |
 |                      | Matrix algebra (sum, product, inverse, transpose)                                                                                                                                         |                                 |
 |                      | Inner products                                                                                                                                          |                                 |
-|Probability & Statistics <br>[CTB2200](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61196) <br>  [AESB2440](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62089)        | Basic continuous probability distributions (Gaussian, binomial, exponential, uniform), cumulative distribution function                                                                                                                                         |                                 | Online courses from EWI and CEG (see below)
+|Probability & Statistics <br>[CTB2200](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61196) <br>  [AESB2440](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62089)        | Basic continuous probability distributions (Gaussian, binomial, exponential, uniform), cumulative distribution function                                                                                                                                         |                                 | Online courses from EWI and CEG
 |                      | Perform computations with discrete and continuous random variables                                                                                                                                         |                                 |
 |                      | Set theory                                                                                                                                        |                                 |
 |                      | Fundamental probability rules : conditional probability, independence, total probability, Bayes’ rule                                                                                                                                         |                                 |
