@@ -2,10 +2,10 @@
 
 The following topics on **transport** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-|Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
+|Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
-| Design of transport infrastructures      | Principles of transport networks design    | [CTB1420-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62037)   | No OER collected yet
-|                      | Geometric design principles of roads and rail: horizintal and vertical alignment calculation                                                                                                            |[CTB3370-18](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61902)                                 |
+| Design of transport infrastructures<br>[CTB3370-18](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61902) <br> [CTB1420-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62037)     | Principles of transport networks design    |    | No OER collected yet
+|                      | Geometric design principles of roads and rail: horizintal and vertical alignment calculation                                                                                                            |                                |
 | Transport and traffic modelling                   | The 4-steps method                                                                                                            |                                 |
 |                    | Spatial interaction models: the gravity method and the lowry model                                                                                                           |                                 |
 |                   | Choice modeling theory: the logit moldel                                                                                                            |                                 |
