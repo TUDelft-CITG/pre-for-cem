@@ -4,7 +4,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 ---
 
-```{admonition} General
+```{note} General
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -23,7 +23,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 ```
 ---
 
-```{admonition} Concrete Structures
+```{note} Concrete Structures
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -38,7 +38,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 ---
 
-```{admonition} Steel structures
+```{note} Steel structures
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -54,7 +54,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 ---
 
-```{admonition} Hydraulic structures
+```{note} Hydraulic structures
 :class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
