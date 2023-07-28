@@ -41,7 +41,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
-| Steel Structures <br> [CTB2220](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61996)      | Material properties of steel <details><summary>Student can:</summary>- Identify steel structural properties   </details>   |[Material properties](https://www.steelconstruction.info/Steel_material_properties#Strength)[^2]   |                          
+| Steel Structures <br> [CTB2220](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61996)      | Material properties of steel <details><summary> Student can:</summary>- Identify steel structural properties</details>   |[Material properties](https://www.steelconstruction.info/Steel_material_properties#Strength)[^2]   |                          
 |                      | Classification of cross-sections   <details><summary>Student can:</summary>- Do a simple hand calculation to verify the steel cross-section class <br>- Identify the properties of different steel cross-section classes </details>                                                                                                                                     |  [Classification of cross-sections ](http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg07/l0200.htm#SEC_2)[^3]                              |
 |                      | Determination of elastic and plastic  resistance of cross-sections <br><details><summary>Student can:</summary>- Identify the class of different steel cross-sections</details>                                                                                                                                      |[Elastic and plastic resistance of cross-sections](https://www.colincaprani.com/files/notes/SAIII/Plastic%20Analysis.pdf)[^4]                                 |Read from pages 3 to 13
 |                      | Design and verification of sections and members loaded under normal force, bending moment, shear force, torsion and/or combinations of these in SLS and ULS  <details><summary>Student can:</summary>- Do a simple hand calculation to verify the bearing capacity of different steel cross-sections  </details>                                                                                                                                      |                              |
@@ -63,5 +63,23 @@ The following topics on **structures** are considered prerequisite knowledge for
 ---
 
 
-[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
+[^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first two columns with required prior knowledge were defined by the admission committee Civil Engineering. Column 3 and 4 with Open Educational Resources (OER) is experimental. These OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=PRE-for-CEM-suggestions)
+
+[^2]: Page is from SteelConstruction.info, https://www.steelconstruction.info/Steel_material_properties#Strength (last checked July 2023)
+
+[^3]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg07/l0200.htm#SEC_2 (last checked July 2023)
+
+[^4]: Reader is from Dr. Colin Caprani, Plastic Analysis 3rd Year Structural Engineering, 2007 (last checked July 2023)
+
+[^5]: Reader is from TU Delft, paper on "buckling validation according to Eurocode 3"  (last checked July 2023)
+
+[^6]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1200.htm (last checked July 2023)
+
+[^7]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1100.htm (last checked July 2023)
+
+[^8]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0120.htm (last checked July 2023)
+
+[^9]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0500.htm (last checked July 2023)
+
+[^10]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0210.htm (last checked July 2023)
 
