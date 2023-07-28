@@ -28,7 +28,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------------|:--------------|:------------------------|:---------------------------------------------|
-| Concrete Structures       | Material characteristics of concrete and reinforcement steel    |   [CTB2220-14](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61996)|
+| Concrete Structures <br> [CTB2220-14](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61996)      | Material characteristics of concrete and reinforcement steel    |  |
 |                      | Stress-strain relations in cross-sections                                                                                                                                        |                                 |
 |                      | Design and verification of sections and members loaded under normal force, bending moment, shear force, torsion and/or combinations of these in SLS and ULS                                                                                                                                        |                                 |
 |                      | Detailing of concrete and reinforcement                                                                                                                                        |                                 |
@@ -57,8 +57,12 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------------|:--------------|:------------------------|:---------------------------------------------|
-| Hydraulic Structures       | Dikes, embankments, dams    |   [CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)|
-|                      | Bridge piers, quays & jetties, construction pits, storm surge barriers, dams, locks/sluices, immersed and bored tunnels                                                                                                                                        |                                 |```
+| Hydraulic Structures <br>[CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)      | Dikes, embankments, dams    |   |
+|                      | Bridge piers, quays & jetties, construction pits, storm surge barriers, dams, locks/sluices, immersed and bored tunnels                                                                                                                                        |                                 |
+```
+
+---
+
 
 [^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
 
