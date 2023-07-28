@@ -22,7 +22,6 @@ The following topics on **structures** are considered prerequisite knowledge for
 ```
 
 ---
----
 
 ```{dropdown} Concrete Structures
 
