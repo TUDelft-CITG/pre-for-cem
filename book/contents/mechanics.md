@@ -2,6 +2,14 @@
 
 The following topics on **mechanics** are considered prerequisite knowledge for the civil engineering MSc-program:
 
+Although the OER for mechanics is sufficient, it is difficult to find sources that 100% fit the bachelor program. Students who want more insight can buy the following books (make sure you get the english version), which are also recommended for the bachelor: 
+
+- Engineering Mechanics: Volume 1: Equilibrium, C. Hartsuijker, H.J. Welleman, ISBN-13 978-1-4020-4120-4 (HB) or ISBN-10 1-4020-5483-1 (e-book)  
+- Engineering Mechanics Volume 2: Stresses, Strains, Displacements, C. Hartsuijker, H.J. Welleman, ISBN 978-1-4020-4123-5 (HB) or ISBN 978-1-4020-5763-2 (e-book)
+
+
+....
+
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
 | Statics of structures <br> [CTB1110](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=45038)  <br>[CTB1310](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=42401&SIS_SwitchLang=nl)      | Composing and decomposing forces, both analytically and graphically                                                                                                                             |[Worked examples](https://study.com/skill/learn/decomposing-two-or-more-forces-acting-on-an-object-in-arbitrary-directions-into-perpendicular-components-explanation.html)  |Ignore video
