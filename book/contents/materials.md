@@ -17,5 +17,5 @@ The following topics on **materials** are considered prerequisite knowledge for 
 [^2]: pages from website of Iowa State University, Center for Nondestructive Evaluation, www.nde-ed.org (last checked July 2023)
 [^3]: reader from Granta Teaching Resources, www.grantadesign.com (last checked July 2023) Teach Yourself: Phase Diagrams and Phase Transformations, prof. Mike Ashby, 5th edition, 2015
 [^4]: reader from Department of Civil Engineering of Eastern Mediterranean University, Materials of Construction, Lecture notes, Second edition, prof. Özgür Eren, 2015
-[^5]: pages from website National Geographic Education, education.nationalgeographic.org (last checked July 2023)
+[^5]: pages from website National Geographic Education, https://education.nationalgeographic.org (last checked July 2023)
 [^6]: pages from website PCA, America's Cement Manufacturers, www.cement.org (last checked July 2023)
