@@ -338,7 +338,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -354,6 +356,14 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-take-the-course">How to take the course:</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -365,92 +375,13 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="programming">
 <h1>Programming<a class="headerlink" href="#programming" title="Permalink to this heading">#</a></h1>
-<table class="table">
-<thead>
-<tr class="row-odd"><th class="head text-left"><p>Topic category</p></th>
-<th class="head text-left"><p>Topic</p></th>
-<th class="head text-left"><p>Taught in Delft in</p></th>
-<th class="head text-left"><p>Open Educational Resources <a class="footnote-reference brackets" href="#id2" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td class="text-left"><p>Python</p></td>
-<td class="text-left"><p>Basics</p></td>
-<td class="text-left"><p><a class="reference external" href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61981&amp;_NotifyTextSearch_">CTB2000-20</a></p></td>
-<td class="text-left"><p>No OER collected yet</p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Variables, Constants, Operators and Expressions</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Common data types (e.g., int, float, strings, chars, boolean)</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Basic data structures: lists, tuples, dictionaries and sets</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Basic read/write operations from text files</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>if/then/else statements</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Loops</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Functions</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Importing packages</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Numpy arrays: 1-D, 2-D and N-D arrays, array creation</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Numpy basic operations: addition, subtraction, multiplication, division, dot product, matrix multiplication</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Numpy array manipulation: sorting, indexing and slicing, reshaping and transpose, joining arrays</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Basic plotting with matplotlib</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p></p></td>
-<td class="text-left"><p>Roots and bugs</p></td>
-<td class="text-left"><p></p></td>
-<td class="text-left"><p></p></td>
-</tr>
-</tbody>
-</table>
-<hr class="footnotes docutils" />
-<aside class="footnote brackets" id="id2" role="note">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
-<p>This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via <a class="reference external" href="mailto:h&#46;r&#46;schipper&#37;&#52;&#48;tudelft&#46;nl?subject=pre-for-cem-suggestions">email</a></p>
-</aside>
+<p>Welcome to the Python Programming Course. The python course can be accessible for free. The course is designed to prepare you for your MSc program in civil engineering at TU Delft. It will also you help you build a solid foundation in programming that will benefit you throughout your academic and professional career.</p>
+<p>To enter the course please click on this <a class="reference external" href="https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html">link</a> or visit:</p>
+<p><a class="reference external" href="https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html">https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html</a></p>
+<section id="how-to-take-the-course">
+<h2>How to take the course:<a class="headerlink" href="#how-to-take-the-course" title="Permalink to this heading">#</a></h2>
+<p>Start the course by reading the Introduction part. Then get started with the Theory and Exercises under the <i>Course Contents</i>! In particular, the Python Toolbox Chapter describes how you can run Python code to solve the exercises. The last part of this course is called In a Nutshell; these are very concise recaps of the content from the main chapters in Course Contents. The idea is that you use these as a quick reference and review of the concepts, before and after the course.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -511,6 +442,20 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-take-the-course">How to take the course:</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
