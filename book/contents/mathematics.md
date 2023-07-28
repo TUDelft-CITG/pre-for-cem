@@ -2,6 +2,17 @@
 
 The math and civil engineering faculties at TU Delft offer several online courses in mathematics, probability and statistics, which are described at the bottom of this page.
 
+
+The mathematics faculty at TU Delft will also have six MOOC's available on EdX. You can access the whole course from the links below and are worked in detail in the table below (check remarks):
+
+- [Calculus I (one variable)](https://www.edx.org/course/mastering-mathematics-for-engineers-calculus-1?index=product&queryID=49b02677b9e4ad56a096c89600e36d27&position=1&results_level=first-level-results&term=Calculus+I+%28one+variable%29&objectID=course-131ce1df-6106-4de3-a337-e85f8731dab7&campaign=Calculus+I%3A+From+Functions+to+Differential+Equations&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+- [Calculus II](https://www.edx.org/course/mastering-mathematics-for-engineers-calculus-2?index=product&queryID=26be2b3fc5bf973547989b16797601b9&position=1&linked_from=autocomplete&c=autocomplete)
+- [Linear Algebra I](https://www.edx.org/course/mastering-mathematics-for-engineers-linear-algebra-1?index=product&queryID=d32e72c926067da02709e3c100d80784&position=1&linked_from=autocomplete&c=autocomplete)
+- [Linear Algebra II](https://www.edx.org/course/mastering-mathematics-for-engineers-linear-algebra-part-2?index=product&queryID=8555789dad05b07e999f8dc543bc8759&position=5&linked_from=autocomplete&c=autocomplete)
+- [Probability and Statistics Applications for Civil Engineers](https://tudelft-citg.github.io/learn-probability/)
+
+
+
 The following topics on **Mathematics** are considered prerequisite knowledge for the civil engineering MSc-program:
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]|Remarks |
@@ -43,17 +54,4 @@ The following topics on **Mathematics** are considered prerequisite knowledge fo
 |                      | Combine a finite difference method with a numerical time-integration method                                                                                                                                         |                                 | 
 |                      | Select appropriate numerical methods                                                                                                                                         |                                 | 
                            
-## Online Courses at TU Delft
-
-The course [Probability and Statistics Applications for Civil Engineers](https://tudelft-citg.github.io/learn-probability/) is completely self-paced and accessible directly in your web browser. This course is meant to be a refresher for probability and statistics topics from a BSc program, not a substitute. It uses practical applications from civil engineering and related fields to illustrate key topics. More material will be added to this course by summer, 2023. If you have never taken a university-level course in probability and statistics, you should follow the MOOC's offered by the mathematics faculty.
-
-The mathematics faculty at TU Delft will also have six MOOC's available on EdX by July 4, 2023 (links will be provided when the courses are available):
-
-- Calculus I (one variable)
-- Calculus II
-- Linear Algebra part I
-- Linear Algebra part II
-- Probability
-- Statistics
-
 [^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
