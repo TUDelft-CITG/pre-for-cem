@@ -2,13 +2,13 @@
 
 The following topics on **mechanics** are considered prerequisite knowledge for the civil engineering MSc-program:
 
-Although the OER for mechanics is sufficient, it is difficult to find sources that 100% fit the bachelor program. Students who want more insight can buy the following books (make sure you get the english version), which are also recommended for the bachelor: 
+Although the OER for mechanics is sufficient, it is difficult to find sources that 100% fit the bachelor program. Students who want more insight can buy the following books, which are also recommended for the bachelor program: 
 
 - Engineering Mechanics: Volume 1: Equilibrium, C. Hartsuijker, H.J. Welleman, ISBN-13 978-1-4020-4120-4 (HB) or ISBN-10 1-4020-5483-1 (e-book)  
 - Engineering Mechanics Volume 2: Stresses, Strains, Displacements, C. Hartsuijker, H.J. Welleman, ISBN 978-1-4020-4123-5 (HB) or ISBN 978-1-4020-5763-2 (e-book)
 
 
-....
+---
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
