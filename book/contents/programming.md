@@ -10,6 +10,32 @@ https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html
 
 Start the course by reading the Introduction part. Then get started with the Theory and Exercises under the <i>Course Contents</i>! In particular, the Python Toolbox Chapter describes how you can run Python code to solve the exercises. The last part of this course is called In a Nutshell; these are very concise recaps of the content from the main chapters in Course Contents. The idea is that you use these as a quick reference and review of the concepts, before and after the course.
 
+### Learning objectives:
+Please pay close attention to these topics in the course: 
+- Importing packages 
+- Common data types (int, float, strings, boolean)	
+- Numpy basic operations: addition, subtraction multiplication, division, dot product, matrix multiplication
+- Numpy arrays: 1-D, 2-D and N-D arrays, array creation
+- Numpy array manipulation: sorting, indexing and slicing, reshaping and transpose, joining arrays
+- Variables, Constants, Operators and Expressions		
+- Basic data structures: lists, tuples, dictionaries and sets
+- Basic read/write operations from text files
+- if/then/else statements	
+- Loops		
+- Functions 
+- Basic plotting with matplotlib
+- Roots and bugs
+		
+	
+	
+		
+		
+		
+		
+		
+		
+		
+
 
 [^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
 
