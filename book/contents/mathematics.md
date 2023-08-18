@@ -2,7 +2,7 @@
 
 The math and civil engineering faculties at TU Delft offer several free online courses in mathematics, probability and statistics.
 
-The mathematics faculty at TU Delft will also have five MOOC's available on EdX. You can access the whole course for free from the links below. The content of these courses are elaborated in the table below (check remarks):
+The mathematics department at TU Delft offers several MOOCs on the EdX platform. You can access the whole course for free from the links below. The content of these courses are elaborated in the table below (check remarks):
 
 - [Pre-university calculus](https://ocw.tudelft.nl/courses/pre-university-calculus/)
 - [Calculus I (one variable)](https://www.edx.org/course/mastering-mathematics-for-engineers-calculus-1?index=product&queryID=49b02677b9e4ad56a096c89600e36d27&position=1&results_level=first-level-results&term=Calculus+I+%28one+variable%29&objectID=course-131ce1df-6106-4de3-a337-e85f8731dab7&campaign=Calculus+I%3A+From+Functions+to+Differential+Equations&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
