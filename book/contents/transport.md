@@ -1,6 +1,10 @@
 # Transport & traffic
 
-The following topics on **transport** are considered prerequisite knowledge for the civil engineering MSc-program:
+The following topics on **transport** are considered prerequisite knowledge for the civil engineering MSc-program.
+
+Although the OER hereby mentioned are sufficient, it is difficult to find sources that entirely fit the bachelor program. Students who want more insight can buy the following book, which is also recommended for the bachelor program:  Garber, N.J., Hoel, L. A. (2009).Traffic & Highway Engineering. CENGAGE Learning
+
+
 
 |Topic category|Topic   |Taught in Delft in  | Open Educational Resources[^1] |
 |:------|:--------|:------------------|:---------------------------|
