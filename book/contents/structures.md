@@ -56,7 +56,7 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
-| Hydraulic Structures <br> [CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)      | Dikes, embankments, dams <details><summary>Student can:</summary>- Identify the difference between dikes,embankments and dams <br>- Recognize the required steps needed to design dikes, embankments and dams   </details> |[Dikes, embankments, dams](https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6708e/x6708e06.htm)[^28]   |
+| Hydraulic Structures <br> [CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)      | Dikes, embankments, dams <details><summary>Student can:</summary>- Identify the difference between dikes,embankments and dams <br>- Recognize the required steps needed to design dikes, embankments and dams   </details> |- [Waves and dikes](./Manual_Hydraulic_Structures.pdf)[^28]   |Go through chapters 8 and 11
 |      | Bridge piers <details><summary>Student can:</summary>- Identify different types of bridge piers   </details> |[Bridge piers](./General_Lecture_notes.pdf)[^27]   |- Bridge piers: read chapter 1.20|
 |      | Quays & jetties <details><summary>Student can:</summary>- Identify what quays and jetties are   </details> | [Quays & jetties](./General_Lecture_notes.pdf)[^27]   | Bridge piers: read chapter 1.20|- Quays & jetties: read chapters 1.5 and 1.6|
 |      | Construction pits<details><summary>Student can:</summary>- Identify different ways on how construction pits are created </details> | [Construction pits](./General_Lecture_notes.pdf)[^27]   |- Construction pits: read chapter 4.1|
@@ -123,7 +123,7 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 [^27]: Reader is from DR.ING. M.Z. VOORENDT,HYDRAULIC STRUCTURES
 GENERAL LECTURE NOTES, 2023 (last checked August 2023)
 
-[^28]: Page is from FAO, https://www.fao.org/fishery/docs/CDrom/FAO_Training/FAO_Training/General/x6708e/x6708e06.htm (last checked august 2023)
+[^28]: Reader is from Dr.ing. M.Z. VOORENDT, Manual Hydraulic Structures, 2023 (last checked August 2023)
 
 [^29]: Page is from Eurocodeapplied, https://eurocodeapplied.com/design/en1992/concrete-design-properties (last checked August 2023)
 
