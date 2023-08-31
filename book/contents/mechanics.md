@@ -86,7 +86,6 @@ Although the OER for mechanics is sufficient, it is difficult to find sources th
 --- 
 
 #```{dropdown} Construction technology
-:class: tip, dropdown
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
