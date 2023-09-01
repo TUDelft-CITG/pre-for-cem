@@ -1,6 +1,6 @@
 # General academic skills
 
-The following academic skills are indispensable for future civil engineers, but also for successful completion of our MSc programme. Obviously, we will work on their further development during the MSc programme, but it is expected that in the undergraduate programme these skills have been obtained on a basic level.
+The following academic skills are indispensable for future civil engineers, but also for a successful completion of any MSc programme at TU Delft. During the MSc programme, these skills will be further developed. However, it is expected that students have already acquired a foundational understanding of these skills during their undergraduate programme.
 
 *  **Reporting** – you are capable of writing a well-structured, concise and accurate description of a design or research activity, pitched at the right audience, using correct written English, with clear narrative, conclusions, recommendations and abstract. Scientific references, literature review, methodology, figures, tables should be according to scientific standards.
 
