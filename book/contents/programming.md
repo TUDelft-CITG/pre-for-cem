@@ -6,11 +6,11 @@ To enter the course please click on this [link](https://tudelft-citg.github.io/l
 
 https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html
 
-<b> How to take the course: <b>
+### How to take the course:
 
 Start the course by reading the Introduction part. Then get started with the Theory and Exercises under the <i>Course Contents</i>! In particular, the Python Toolbox Chapter describes how you can run Python code to solve the exercises. The last part of this course is called In a Nutshell; these are very concise recaps of the content from the main chapters in Course Contents. The idea is that you use these as a quick reference and review of the concepts, before and after the course.
 
-<b> Learning objectives:<b>
+### Learning objectives:
 - Importing packages 
 - Common data types (int, float, strings, boolean)	
 - Numpy basic operations: addition, subtraction multiplication, division, dot product, matrix multiplication
