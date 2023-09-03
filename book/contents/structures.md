@@ -3,8 +3,7 @@
 The civil engineering MSc-program requires prior knowledge of four subjects related to **structures**. Proficiency in these subjects is considered a prerequisite for admission. Each subject covers various topics, which are expected to be familiar to applicants:
 
 ---
-```{admonition} General
-:class: tip, dropdown
+#```{dropdown} General
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------------|:--------------|:------------------------|:---------------------------------------------|
@@ -19,11 +18,10 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Technical drawing and set-up of hand calculations  <details><summary>Student is:</summary> - Familiar with interpreting and understanding engineering technical drawings <br>- Capable of making simple design calculations by hand and by computer</details>                                                                                                                                                                               |[Technical drawings: investigate table of content](https://www.designingbuildings.co.uk/wiki/Technical_drawing)[^24]
 |                      | Stability and fixation of degrees of freedom <details><summary>Student can:</summary> - Identify the stability elements of a structure <br>- Identify the degrees of freedom of individual elements in a structure </details>                                                                                                                                       | [Stability and Determinacy ](https://learnaboutstructures.com/Stability-Determinacy)[^25]                                |Go through 2.1 to 2.7
 |                      | Construction methods <details><summary>Student can:</summary>- Identify most applicable construction methods for a given project  <br>- Identitfy the pros and cons of (different) construction methods </details>                                                                                                                                                             |[Different construction methods ](https://www.indeed.com/career-advice/career-development/construction-methods)[^26]|This website does not list all available construction methods|
-```
+#```
 ---
 
-```{admonition} Concrete structures
-:class: tip, dropdown
+#```{dropdown} Concrete structures
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
@@ -33,11 +31,10 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Detailing of concrete and reinforcement  <details><summary>Student can:</summary>- Make simple hand calculation to determine the minimum required reinforcement for different structural elements and verify them  </details>                                                                                                                                      |[Beam reinforcement detailing ](https://www.structuralguide.com/beam-reinforcement-detailing/)[^35]                                 |
 |                      | Crack-width control <details><summary>Student can:</summary>- Make simple hand calculation to determine the crack width for different structural elements and control their size  </details>                                                                                                                                       | [Crack-width control ](./Ch_15_EC_Crack_width_control_CRB_07_V2018.pdf) [^36]                               |- See if you can do example 1 and example 2 at the end of the document <br>- Go through the reader if needed for the theory  
 |                      | Deformation of concrete structures  <details><summary>Student can:</summary>- Identify how structures can deform and the effects deformation can cause  </details>                                                                                                                                      | [Defects in Concrete Structures  ](https://theconstructor.org/concrete/concrete-defects-types-causes-prevention/8581/#:~:text=Different%20types%20of%20defects%20in,to%20various%20reasons%20or%20causes.)[^37]                                 ||
-```
+#```
 ---
 
-```{admonition} Steel structures
-:class: tip, dropdown
+#```{dropdown} Steel structures
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
@@ -48,11 +45,10 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Stability of elements of structures   <details><summary>Student can:</summary>- Identify (different) stability elements in steel load-bearing structures <br>- Do a simple hand calculation to verify the stability of the bearing capacity for different steel elements   </details>                                                                                                                                     |  [Buckling resistance of members](https://repository.tudelft.nl/islandora/object/uuid:60760487-942a-41f1-a464-6e1362801c42/datastream/OBJ/download)[^5]                               |Read chapter 3.2 to 3.8
 |                      | Trusses and frames <details><summary>Student can:</summary>- Identify the difference between trusses and frames <br>- Do a simple hand calculation to verify the the bearing capacity for different steel elements in trusses and frames   </details>                                                                           |- [Trusses](http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1200.htm)[^6] <br>-  [Frames](http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1100.htm)[^7]                                  | 
 |                      | Simple and welded connections   <details><summary>Student can:</summary>- Identify the difference between welded and bolted connections <br>- Do a simple hand calculation to verify the the bearing capacity of a steel connection   </details>                                                                                                                                     |- [General](http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0120.htm)[^8] <br>- [Bolted steel connections](http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0500.htm)[^9] <br>- [Welded connections](http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0210.htm) [^10] ||
-```
+#```
 --- 
 
-```{admonition} Hydraulic structures 
-:class: tip, dropdown
+#```{dropdown} Hydraulic structures 
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
@@ -64,7 +60,7 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |      | Dams <details><summary>Student can:</summary>- Identify what dams are, how they are created and why  </details> | [Dams](./General_Lecture_notes.pdf)[^27]   |- Dams: read chapters 1.11 and 1.19 |
 |      | Lock/sluices <details><summary>Student can:</summary>- Identify lock and sluice mechanisms  </details> | [Lock/sluices](./General_Lecture_notes.pdf)[^27]   |- Lock/sluices: read chapters 1.3, 1.15, 1.16, 1.17 and 1.18 |
 |      | Immersed and bored tunnels <details><summary>Student can:</summary>- Identify the difference between immersed and bored tunnels.   </details> |- [Immersed tunnels](./General_Lecture_notes.pdf)[^27] <br>- [Bored tunnels](./General_Lecture_notes.pdf)  |- Immersed tunnels: read chapter 1.21.4 <br>- Bored tunnels: read chapter 4.6|
-```
+#```
 --- 
 
 
