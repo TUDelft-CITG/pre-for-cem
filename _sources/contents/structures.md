@@ -52,12 +52,18 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 --- 
 
-```{dropdown} Hydraulic structures
+```{dropdown} Hydraulic structures 
 
-|Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
-|:------------|:--------------|:------------------------|:---------------------------------------------|
-| Hydraulic Structures <br>[CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)      | Dikes, embankments, dams    |   |
-|                      | Bridge piers, quays & jetties, construction pits, storm surge barriers, dams, locks/sluices, immersed and bored tunnels                                                                                                                                        |                                 |
+|Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
+|:------|:--------|:------------------|:---------------------------|
+| Hydraulic Structures <br> [CTB2410](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61992)      | Dikes, embankments, dams <details><summary>Student can:</summary>- Explain the difference between dikes,embankments and dams. <br>- Create a conceptual design for basic hydraulic structures and verify their stability and strength through simple hands calculations.  </details> |- [Loads on hydrulic structures](./Manual_Hydraulic_Structures.pdf)[^28]   |Go through part 1 (from chapters 1  to 24) in the Manual Hydrulic Structure
+|      | Bridge piers <details><summary>Student can:</summary>- Identify different types of bridge piers. <br>- Verify their stability and strength through simple hands calculations.   </details> |- [Bridge piers](./General_Lecture_notes.pdf)[^27] <br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]   |- Bridge piers: read chapter 1.20 in the General Lecture Notes <br>- Calculations: see chapters 1 and 31 in the Manual Hydrulic Structures|
+|      | Quays & jetties <details><summary>Student can:</summary>- Illustrate what quays and jetties are. <br>- Verify their stability and strength through simple hands calculations.   </details> | - [Quays & jetties](./General_Lecture_notes.pdf)[^27]<br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]  | - Quays & jetties: read chapters 1.5 and 1.6 in the General Lecture Notes<br>- Calculations: see chapters 1 and 31 in the Manual Hydrulic Structures||
+|      | Construction pits<details><summary>Student can:</summary>- Identify different ways on how construction pits are created. <br>- Verify their stability and strength through simple hands calculations. </details> |- [Construction pits](./General_Lecture_notes.pdf)[^27] <br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]  |- Construction pits: read chapter 4.1 in the General Lecture Notes<br>- Calculations: see chapters 37 to 41 in the Manual Hydrulic Structures|
+|      | Storm surge barriers <details><summary>Student can:</summary>- Describe what storm surge barriers are used for. <br> - Verify their stability and strength through simple hands calculations.</details> |- [Storm surge barriers](./General_Lecture_notes.pdf)[^27] <br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]   |- Storm surge barriers: read chapter 1.12 in the General Lecture Notes<br>- Calculations: see chapter 7 in the Manual Hydrulic Structures|
+|      | Dams <details><summary>Student can:</summary>- Discuss what dams are, how they are created and why. <br>- Verify their stability and strength through simple hands calculations. </details> |- [Dams](./General_Lecture_notes.pdf)[^27]<br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]  |- Dams: read chapters 1.11 and 1.19 in the General Lecture Notes<br>- Calculations: see chapters 1, 3, and 31 in the Manual Hydrulic Structures|
+|      | Lock/sluices <details><summary>Student can:</summary>- Identify lock and sluice components. <br>- Verify their stability and strength through simple hands calculations.  </details> |- [Lock/sluices](./General_Lecture_notes.pdf)[^27] <br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]  |- Lock/sluices: read chapters 1.3, 1.15, 1.16, 1.17 and 1.18 in the General Lecture Notes<br>- Calculations: see chapters 11, 23 and 43 in the Manual Hydrulic Structures|
+|      | Immersed and bored tunnels <details><summary>Student can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details> |- [Immersed tunnels](./General_Lecture_notes.pdf) <br>- [Bored tunnels](./General_Lecture_notes.pdf)[^27] <br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]  |- Immersed tunnels: read chapter 1.21.4 in the General Lecture Notes<br>- Bored tunnels: read chapter 4.6 in the General Lecture Notes<br>- Calculations: see chapters 18, 19 and 36 in the Manual Hydrulic Structures|
 ```
 
 ---
@@ -80,6 +86,10 @@ The following topics on **structures** are considered prerequisite knowledge for
 [^8]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0120.htm (last checked July 2023)
 
 [^9]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0500.htm (last checked July 2023)
+
+[^27]: Reader is from DR.ING. M.Z. VOORENDT,HYDRAULIC STRUCTURES GENERAL LECTURE NOTES, 2023 (last checked August 2023)
+
+[^28]: Reader is from Dr.ing. M.Z. VOORENDT, Manual Hydraulic Structures, 2023 (last checked August 2023)
 
 [^10]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0210.htm (last checked July 2023)
 
