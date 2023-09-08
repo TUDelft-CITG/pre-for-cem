@@ -74,6 +74,11 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |                      | Safety measures related to construction  <details><summary>Students can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details>                                                                                                                               | [SCC – Dutch safety standards on site](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61941)[^38]                                |Read until "Four reasons for obtaining an SCC certificate". |
 #```
 
+```{admonition} Feedback form 
+:class: tip, dropdown
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeegj7Vtk3PGiU7YqxAdfunzARBBXChRR0DeJdfhq0pQyKNkg/viewform?usp=sf_link Variables, operators and functions" width="720" height="1077" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+```
+
 --- 
 
 [^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first three columns with required prior knowledge were defined by the admission committee Civil Engineering. The final column with Open Educational Resources (OER) is experimental. This OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=pre-for-cem-suggestions)
