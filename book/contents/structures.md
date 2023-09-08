@@ -62,17 +62,17 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 |      | Immersed and bored tunnels <details><summary>Student can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details> |- [Immersed tunnels](./General_Lecture_notes.pdf) <br>- [Bored tunnels](./General_Lecture_notes.pdf)[^27] <br>- [Calculations](./Manual_Hydraulic_Structures.pdf)[^28]  |- Immersed tunnels: read chapter 1.21.4 in the General Lecture Notes<br>- Bored tunnels: read chapter 4.6 in the General Lecture Notes<br>- Calculations: see chapters 18, 19 and 36 in the Manual Hydrulic Structures|
 #```
 --- 
-```{dropdown} Construction technology
+#```{dropdown} Construction technology
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
-| Construction technology <br>[CTB1410-20](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61941)<br>    [CTB2320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62002)      | Available technologies for foundation piles, retaining structures and shallow foundations, excavations                                                                                                                           | |
-|                      | Construction methods in concrete: in-situ and precast, available standard element types                                                                                                                                 |                                 |
-|                      | Construction methods in steel, timber and stone                                                                                                                                |                                 |
-|                      | Transport of construction materials and elements, hoisting, vertical transport                                                                                                                                 |                                 |
-|                      | Responsibilities in design and construction                                                                                                                                 |                                 |
-|                      | Safety measures related to construction                                                                                                                                 |                                 | |
-```
+| Construction technology <br>[CTB1410-20](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61941)<br>    [CTB2320-17](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=62002)      | Available technologies for foundation piles, retaining structures and shallow foundations, excavations<details><summary>Students can:</summary>-   </details>                                                                                                                          |- [Pile foundation  types](https://www.structuralguide.com/pile-foundations/)[^44] <br>- [Shallow foundation types](https://www.structuralguide.com/shallow-foundations/)[^43] <br>- [Retaining structure types](https://www.structuralguide.com/active-earth-pressure/)[^42] |- Pile foundation types: Read until "Screw piles". <br>- Retaining structure types: Read all 17 topics on "Retaining Structures".
+|                      | Construction methods in concrete: in-situ and precast, available standard element types <details><summary>Students can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details>                                                                                                                                |                                 |
+|                      | Construction methods in steel, timber and stone <details><summary>Students can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details>                                                                                                                               |                                 |
+|                      | Transport of construction materials and elements, hoisting, vertical transport <details><summary>Students can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details>                                                                                                                                 |- [Safety transportation of construction materials](https://www.civillead.com/transportation-of-construction-materials/)[^41] <br>- [Vertical transportation](https://www.designingbuildings.co.uk/wiki/Vertical_Transportation#:~:text=The%20term%20'vertical%20transportation'%20refers,Escalators.)[^40]                                 |
+|                      | Responsibilities in design and construction <details><summary>Students can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details>                                                                                                                                |[Responsibilities of a contractor](https://lvh-advocaten.nl/en/artikelen/what-are-the-rights-obligations-and-liabilities-of-contractors-and-principals-in-contracting-work-2/)[^39]                                 |
+|                      | Safety measures related to construction  <details><summary>Students can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details>                                                                                                                               | [SCC – Dutch safety standards on site](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61941)[^38]                                |Read until "Four reasons for obtaining an SCC certificate". |
+#```
 
 --- 
 
@@ -150,3 +150,18 @@ GENERAL LECTURE NOTES, 2023 (last checked August 2023)
 [^36]: Reader is from TU Delft, Crack width control, 2019 (last checked August 2023)
 
 [^37]: Page is from Theconstructor, https://theconstructor.org/concrete/concrete-defects-types-causes-prevention/8581/#:~:text=Different%20types%20of%20defects%20in,to%20various%20reasons%20or%20causes. (last checked August 2023)
+
+[^38]: Page is from VCA.nl, https://www.vca.nl/home/diplomas-certificates/scc (last checked September 2023)
+
+[^39]: Page is from LVH Advocaten, https://lvh-advocaten.nl/en/artikelen/what-are-the-rights-obligations-and-liabilities-of-contractors-and-principals-in-contracting-work-2/ (last checked September 2023)
+
+[^40]: Page is from Designing Buildings, https://www.designingbuildings.co.uk/wiki/Vertical_Transportation#:~:text=The%20term%20'vertical%20transportation'%20refers,Escalators. (last checked September 2023)
+
+[^41]: Page is from Civil Lead, https://www.civillead.com/transportation-of-construction-materials/ (last checked September 2023)
+
+[^42]: Page is from Structural Guide, https://www.structuralguide.com/active-earth-pressure/ (last checked September 2023)
+
+[^43]: Page is from Structural Guide, https://www.structuralguide.com/shallow-foundations/ (last checked September 2023)
+
+[^44]: Page is from Structural Guide, https://www.structuralguide.com/pile-foundations/ (last checked September 2023)
+
