@@ -76,7 +76,11 @@ The civil engineering MSc-program requires prior knowledge of four subjects rela
 
 ```{admonition} Feedback form 
 :class: tip, dropdown
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeegj7Vtk3PGiU7YqxAdfunzARBBXChRR0DeJdfhq0pQyKNkg/viewform?usp=sf_link Variables, operators and functions" width="720" height="1077" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+
+[Survey Roel](https://tudelft.fra1.qualtrics.com/jfe/form/SV_aWd7buXALZ5pwFw)
+
+<a href="https://tudelft.fra1.qualtrics.com/jfe/form/SV_aWd7buXALZ5pwFw" target="_blank">Feedback</a>
+
 ```
 
 --- 
