@@ -2,7 +2,6 @@ format: jb-book
 root: contents/home
 
 chapters:
-- file: contents/programming
 - file: contents/materials
 - file: contents/geo-engineering
 - file: contents/structures
@@ -11,5 +10,6 @@ chapters:
 - file: contents/transport
 - file: contents/mathematics
 - file: contents/generalskills
+- file: contents/programming
 - file: contents/tips
 - file: contents/otherfundamentals
