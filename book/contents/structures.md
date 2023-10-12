@@ -90,4 +90,21 @@ The following topics on **structures** are considered prerequisite knowledge for
 [^28]: Reader is from Dr.ing. M.Z. VOORENDT, Manual Hydraulic Structures, 2023 (last checked August 2023)
 
 [^10]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0210.htm (last checked July 2023)
+[^29]: Page is from Eurocodeapplied, https://eurocodeapplied.com/design/en1992/concrete-design-properties (last checked August 2023)
+
+[^30]: Page is from Eurocodeapplied, https://eurocodeapplied.com/design/en1993/steel-design-properties (last checked August 2023)
+
+[^31]: Page is from The Si-Eng, https://www.si-eng.org/post/a-step-by-step-anatomy-of-concrete-stress-strain-curve-1 (last checked August 2023)
+
+[^32]: Page is from Structville, https://structville.com/2020/10/design-of-reinforced-concrete-beams.html (last checked August 2023)
+
+[^33]: Page is from Structville, https://structville.com/2021/01/worked-example-design-of-rc-beams-for-torsion-en-1992-12004.html (last checked August 2023)
+
+[^34]: Page is from Theconstructor, https://theconstructor.org/building/minimum-maximum-reinforcement-reinforced-concrete-elements/234426/ (last checked August 2023)
+
+[^35]: Page is from StructuralGuide, https://www.structuralguide.com/beam-reinforcement-detailing/ (last checked August 2023)
+
+[^36]: Reader is from TU Delft, Crack width control, 2019 (last checked August 2023)
+
+[^37]: Page is from Theconstructor, https://theconstructor.org/concrete/concrete-defects-types-causes-prevention/8581/#:~:text=Different%20types%20of%20defects%20in,to%20various%20reasons%20or%20causes. (last checked August 2023)
 
