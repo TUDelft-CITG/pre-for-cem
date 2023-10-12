@@ -68,43 +68,25 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 
 [^1]: This is an experimental Jupyter Book, part of an educational research project, made by staff and MSc students of TU Delft. The first two columns with required prior knowledge were defined by the admission committee Civil Engineering. Column 3 and 4 with Open Educational Resources (OER) is experimental. These OER materials are provided as a service. Although we did our best to collect OER that reflect the required knowledge as good as possible, based on surveys among students and discussion with staff members, unfortunately we can not give a guarantee that the quality of all material is good. Suggestions are welcome via [email](mailto:h.r.schipper@tudelft.nl?subject=PRE-for-CEM-suggestions)
-
 [^2]: Page is from SteelConstruction.info, https://www.steelconstruction.info/Steel_material_properties#Strength (last checked July 2023)
-
 [^3]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg07/l0200.htm#SEC_2 (last checked July 2023)
-
 [^4]: Reader is from Dr. Colin Caprani, Plastic Analysis 3rd Year Structural Engineering, 2007 (last checked July 2023)
-
 [^5]: Reader is from TU Delft, paper on "buckling validation according to Eurocode 3"  (last checked July 2023)
-
 [^6]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1200.htm (last checked July 2023)
-
 [^7]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/esdep/master/wg07/l1100.htm (last checked July 2023)
-
 [^8]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0120.htm (last checked July 2023)
-
 [^9]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0500.htm (last checked July 2023)
-
 [^27]: Reader is from DR.ING. M.Z. VOORENDT,HYDRAULIC STRUCTURES GENERAL LECTURE NOTES, 2023 (last checked August 2023)
-
 [^28]: Reader is from Dr.ing. M.Z. VOORENDT, Manual Hydraulic Structures, 2023 (last checked August 2023)
-
 [^10]: Page is from ESDEP, http://fgg-web.fgg.uni-lj.si/~/pmoze/ESDEP/master/wg11/t0210.htm (last checked July 2023)
 [^29]: Page is from Eurocodeapplied, https://eurocodeapplied.com/design/en1992/concrete-design-properties (last checked August 2023)
-
 [^30]: Page is from Eurocodeapplied, https://eurocodeapplied.com/design/en1993/steel-design-properties (last checked August 2023)
-
 [^31]: Page is from The Si-Eng, https://www.si-eng.org/post/a-step-by-step-anatomy-of-concrete-stress-strain-curve-1 (last checked August 2023)
-
 [^32]: Page is from Structville, https://structville.com/2020/10/design-of-reinforced-concrete-beams.html (last checked August 2023)
-
 [^33]: Page is from Structville, https://structville.com/2021/01/worked-example-design-of-rc-beams-for-torsion-en-1992-12004.html (last checked August 2023)
-
 [^34]: Page is from Theconstructor, https://theconstructor.org/building/minimum-maximum-reinforcement-reinforced-concrete-elements/234426/ (last checked August 2023)
-
 [^35]: Page is from StructuralGuide, https://www.structuralguide.com/beam-reinforcement-detailing/ (last checked August 2023)
-
 [^36]: Reader is from TU Delft, Crack width control, 2019 (last checked August 2023)
-
 [^37]: Page is from Theconstructor, https://theconstructor.org/concrete/concrete-defects-types-causes-prevention/8581/#:~:text=Different%20types%20of%20defects%20in,to%20various%20reasons%20or%20causes. (last checked August 2023)
+[^45]: Reader is from TU Delft (last checked August 2023)
 
