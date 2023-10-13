@@ -1,5 +1,7 @@
 # 10 tips for incoming MSc students
 
+These tips were obtained from a survey and interviews with Civil Engineering MSc students:
+
 1. Enjoy life
 
 - Don't forget to enjoy life and enjoy the place you are living in. Studying is not everything and it's hard to not study 24/7 at TU Delft.
