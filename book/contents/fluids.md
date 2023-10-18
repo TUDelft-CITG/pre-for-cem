@@ -3,9 +3,6 @@
 The following topics on **fluids** are considered prerequisite knowledge for the civil engineering MSc-program:
 
 
-
-[Pile foundation design](./book\contents\notes\Pile_Foundations_Notes_2023.pdf)[^10] 
-
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]|Remarks |
 |:------|:-------------|:------------------|:---------------------------|
 | Mechanics of fluids                     | Hydrostatics: Pressure forces, vertical force, and pressure forces on inclined surfaces. <details><summary>Student can :</summary> <br>- Make calculations of pressures, piezometric levels and horizontal and vertical forces on walls in a stationary fluid</details>                                                                                                            |- [Fluids – Lecture 2 Notes](https://ocw.mit.edu/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/resources/f02_fall/)[^2]<br>-[Hydrostatic (fluid) pressure](https://www.youtube.com/watch?v=3MvRpp7WnK0)[^3]<br>- [Excercise 1](https://www.youtube.com/watch?v=Z5sUK5yhnUU)<br>- [Excercise 2](https://www.youtube.com/watch?v=iLUyhccW-Xs)<br>- [Excercise 3](https://www.youtube.com/watch?v=taEJ3vPEwMk)                                 |-Lecture notes: hydrostatic equation <br>- Make sure you check out the excercises.
