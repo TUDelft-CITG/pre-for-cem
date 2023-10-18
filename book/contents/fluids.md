@@ -3,9 +3,6 @@
 The following topics on **fluids** are considered prerequisite knowledge for the civil engineering MSc-program:
 
 
-[Link to PDF](../Lec_pdfs/READER_Fluid_Mechanics.pdf)
-
-
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]|Remarks |
 |:------|:-------------|:------------------|:---------------------------|
