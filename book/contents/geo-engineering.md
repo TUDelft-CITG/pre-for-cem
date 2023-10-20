@@ -41,6 +41,6 @@ The following topics on **geo-engineering** are considered prerequisite knowledg
 [^7]: Craig, R.F. (2004) Craig's Soil Mechanics (7th Edition). Spon Press. USA.
 [^8]: CEEN 341 - Lecture 23 - Lateral Earth Pressures, Part I, II and III.
 [^9]: Geoengineer.org. (2018). Introduction to slope stability.
-[^10]: Notes for OCF1 Foundation Design 2021 from TU Delft.
+[^10]: Notes for OCF1 Foundation Design 2023 from TU Delft.
 [^11]: Quick Reference by Pasterkamp from TU Delft.
 [^12]: Youtube channel from geo-engineering department of TU Delft
