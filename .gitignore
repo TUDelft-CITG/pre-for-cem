@@ -141,3 +141,4 @@ dmypy.json
 
 # OSX
 .DS_Store
+*.pdf
