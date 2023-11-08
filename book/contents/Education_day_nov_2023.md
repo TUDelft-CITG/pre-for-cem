@@ -1,80 +1,90 @@
 # Education Day November 2023 Assignment preview
 
-Welcome to the PRE-for-CEM initiative within the Civil Engineering department. We're dedicated to building an open educational platform for incoming international students. Now, your chance has arrived to craft a mini open educational platform for your faculty. This assignment empowers you to enhance the inclusivity and accessibility of learning for your peers. Join us in shaping the future of education through the PRE-for-CEM project.
+Here is a glimpse to what can happen to you after seeing it, saying it and sorting it! 
 
 
 ---
+
 ```{dropdown} Group 1
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 
 ---
+
 ```{dropdown} Group 2
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 
 ---
+
 ```{dropdown} Group 3
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 
 ---
+
 ```{dropdown} Group 4
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
+
 ```{dropdown} Group 5
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
+
 ```{dropdown} Group 6
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
+
 ```{dropdown} Group 7
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
+
 ```{dropdown} Group 8
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
+
 ```{dropdown} Group 9
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
+
 ```{dropdown} Group 10
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|   |   |  |   |
+| q  | w  |e  | e  |
 ```
 ---
 

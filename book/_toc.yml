@@ -1,15 +1,6 @@
 format: jb-book
-root: contents/home
+root: intro
 
 chapters:
-- file: contents/materials
-- file: contents/geo-engineering
-- file: contents/structures
-- file: contents/fluids
-- file: contents/mechanics
-- file: contents/transport
-- file: contents/mathematics
-- file: contents/generalskills
-- file: contents/otherfundamentals
-- file: contents/programming
-- file: contents/tips
+- file: contents/Education_day_nov_2023
+
