@@ -1,90 +1,148 @@
-# Education Day November 2023 Assignment preview
+# Assignment preview
 
-Here is a glimpse to what can happen to you after seeing it, saying it and sorting it! 
-
+Below, you will find the Open Educational Resource (OER) that you created and can share with your students:
 
 ---
 
 ```{dropdown} Group 1
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 
 ---
 
 ```{dropdown} Group 2
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 
 ---
 
 ```{dropdown} Group 3
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 
 ---
 
 ```{dropdown} Group 4
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 
 ```{dropdown} Group 5
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 
 ```{dropdown} Group 6
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 
 ```{dropdown} Group 7
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 
 ```{dropdown} Group 8
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 
 ```{dropdown} Group 9
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 
 ```{dropdown} Group 10
 
+Names: <br>
+Faculty: <br>
+Roles: <br>
+Course/Program: <br>
+Admission criteria: <br>
+
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-| q  | w  |e  | e  |
+| Fill box 1  | Fill box 2  |Fill box 3  |Fill box 4    |
 ```
 ---
 

@@ -1,5 +1,5 @@
 format: jb-book
-root: intro
+root: contents/intro
 
 chapters:
 - file: contents/Education_day_nov_2023
