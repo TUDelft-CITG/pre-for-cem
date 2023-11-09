@@ -4,7 +4,7 @@ Below, you will find the Open Educational Resource (OER) that you created and ca
 
 ---
 
-```{dropdown} Group 1
+#```{dropdown} Group 1
 Date: 09-11-2023 <br>
 Names: Lisanne Walma, Aurele Adam <br>
 Faculty: Library + TNW <br>
@@ -15,20 +15,7 @@ Administration criteria: All PhDs student from TUDelft <br>
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
-|Phd student prior knowledge   | - Basic query <br>
-- Critical evaluation of information <br>
-- Basic structured searching and evaluation in a basic level <br>
-- Level of english (B2) <br>
-- Basic organizational skills (data management, plagiarisme, referencing) <br>
-  |<a href="https://www.tudelft.nl/tulib" target="_blank">TU Library</a>  | Administration criteria:
-<br> - Bachelor Applied Physics from TUD
-<br> - Bachelor Applied Physics from NL:
-        - BSc has been completed within at most five years;
-        - Cumulative Grade Point Average ≥ 7.0.
-<br>- Bachelor Applied Physics or Physics from abroad with:
-    - GPA >7.5
-    - No delay of studies (without good reason)
-    - English level
+|Phd student prior knowledge   | - Basic query <br> - Critical evaluation of information <br> - Basic structured searching and evaluation in a basic level <br> - Level of english (B2) <br> - Basic organizational skills (data management, plagiarisme, referencing) <br> |<a href="https://www.tudelft.nl/tulib" target="_blank">TU Library</a>  | Administration criteria: <br> - Bachelor Applied Physics from TUD <br> - Bachelor Applied Physics from NL:<br>        - BSc has been completed within at most five years; <br> - Cumulative Grade Point Average ≥ 7.0. <br>- Bachelor Applied Physics or Physics from abroad with: <br>    - GPA >7.5 <br>     - No delay of studies (without good reason) <br>    - English level
     |
 ```
 
@@ -51,11 +38,12 @@ Course/Program: Computer Graphics <br>
 
 ```{dropdown} Group 3
 
-Names: <br>
-Faculty: <br>
-Roles: <br>
-Course/Program: <br>
-Admission criteria: <br>
+Date: 09-11-2023 <br>
+Names: Jose, Roel <br>
+Faculty: IDE <br>
+Roles: Faculty coordinator open en online learning, Assessment Expert
+Course/Program: industrial design engineering
+
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
