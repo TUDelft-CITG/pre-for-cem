@@ -50,18 +50,22 @@ Course/Program: industrial design engineering
 | Faculty coordinator open and online learning  | Assessment Expert   |- <a href="https://www.tudelft.nl/io/studeren/ide-masteropleidingen/msc-integrated-product-design/admission-application-finances/non-dutch-bsc-degree" target="_blank">Non-Dutch BSc degree</a>  <br>- <a href="https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements" target="_blank">Admission requirements</a> |- General overview is available, but detailed information is lacking. And no examples of prior knowledge.     |
 ```
 --- 
-
-'''{dropdown} Group 4
+```{dropdown} Group 4
 
 Date: 09-11-2023 <br>
 Names: Tugce&Enest <br>
 Faculty: EWI&IDE <br>
 Roles: lecturer&lecturer <br>
+Course/Program: 1st year engineering students for calculus
+
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
-| :------|:--------|:------------------------|:------------------|
-|1st year engineering students for calculus | 1. VWO/international high school level ( preferably science background)+English level <br>2. level B is mandatory for VWO/ math grade <br>- Visualize functions of single variables and read off qualitative information from graphs and contour plots. <br>- Calculate derivatives for a variety of single functions. <br>- Calculate derivatives for a variety of single functions. <br>- Calculate and interpret directional derivatives and gradients of single functions. <br>- Evaluate integrals over general integration domains (intervals). |- <a href="https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/contour-maps" target="_blank">Multivariable calculus</a>  |Khan Academy/basisboek wiskunde(theory+limited practice) are recommended |
+|:------|:--------|:---------------------------|:------------------|
+| Admission requirements  | level B is mandatory for VWO/ math grade <br>- Visualize functions of single variables and read off qualitative information from graphs and contour plots.  |- <a href="https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions/a/contour-maps" target="_blank">Multivariable calculus</a> |Khan Academy/basisboek wiskunde(theory+limited practice) are recommended sorces    |
 ```
+
+
+
 ---
 
 ```{dropdown} Group 5
