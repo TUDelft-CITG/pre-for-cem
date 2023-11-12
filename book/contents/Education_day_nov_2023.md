@@ -74,7 +74,6 @@ Names: Sepideh Ghodrat, Kevin Cowan <br>
 Faculty: IDE, AE <br>
 Roles: Assistant Prof., Lecturer/Track Coordinator <br>
 Course/Program: Materials and Manufacturing (second year BSc elective course) <br>
-Admission criteria: <br>
 
 |Subject|Topic category / Learning objectives  | Open Educational Resources [^1] |Remarks| 
 |:------|:--------|:---------------------------|:------------------|
