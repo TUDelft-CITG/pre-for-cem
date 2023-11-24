@@ -17,7 +17,8 @@ We have chosen to use this format, so that both staff and students can suggest a
 The project was carried out by:
 - Mehmet Kisa, MSc (project lead)
 - Ahmed Farahat, BSc and (student assistant)
-- Diana Portillo Arreguin, BSc (student assistant)
+- Guus Meinema, BSc and (student assistant)
+- Diana Portillo Arreguin, BSc and (student assistant)
 - Dr. Roel Schipper (project initiator)
 
 and with the support of many professors who have provided reference materials and verified the selected sources.
