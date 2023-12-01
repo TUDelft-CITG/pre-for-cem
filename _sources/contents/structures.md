@@ -23,7 +23,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 
 ---
 
-#```{dropdown} Concrete structures
+```{dropdown} Concrete structures
 
 |Subject|Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
