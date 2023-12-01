@@ -34,6 +34,7 @@ The following topics on **structures** are considered prerequisite knowledge for
 |                      | Crack-width control <details><summary>➤ Student can:</summary>- Make simple hand calculation to determine the crack width for different structural elements and control their size  </details>                                                                                                                                       | [Crack-width control](../Lec_pdfs/Ch_15_EC_Crack_width_control_CRB_07_V2018.pdf)[^36]                              |- See if you can do example 1 and example 2 at the end of the document <br>- Go through the reader if needed for the theory  
 |                      | Deformation of concrete structures  <details><summary>➤ Student can:</summary>- Identify how structures can deform and the effects deformation can cause  </details>                                                                                                                                      | [Defects in Concrete Structures  ](https://theconstructor.org/concrete/concrete-defects-types-causes-prevention/8581/#:~:text=Different%20types%20of%20defects%20in,to%20various%20reasons%20or%20causes.)[^37]                                 ||
 ```
+---
 
 ```{dropdown} Steel structures
 
@@ -63,6 +64,8 @@ The following topics on **structures** are considered prerequisite knowledge for
 |      | Lock/sluices <details><summary>Student can:</summary>- Identify lock and sluice components. <br>- Verify their stability and strength through simple hands calculations.  </details> |- [Lock/sluices](../Lec_pdfs/General_Lecture_notes.pdf)[^27] <br>- [Calculations](../Lec_pdfs/Manual_Hydraulic_Structures.pdf)[^28]  |- Lock/sluices: read chapters 1.3, 1.15, 1.16, 1.17 and 1.18 in the General Lecture Notes<br>- Calculations: see chapters 11, 23 and 43 in the Manual Hydrulic Structures|
 |      | Immersed and bored tunnels <details><summary>➤ Student can:</summary>- Identify the difference between different types of immersed tunnels. <br>- Develop a conceptual design for immersed and bored tunnels.   </details> |- [Immersed tunnels](../Lec_pdfs/General_Lecture_notes.pdf) <br>- [Bored tunnels](../Lec_pdfs/General_Lecture_notes.pdf)[^27] <br>- [Calculations](../Lec_pdfs/Manual_Hydraulic_Structures.pdf)[^28]  |- Immersed tunnels: read chapter 1.21.4 in the General Lecture Notes<br>- Bored tunnels: read chapter 4.6 in the General Lecture Notes<br>- Calculations: see chapters 18, 19 and 36 in the Manual Hydrulic Structures|
 ```
+---
+
 ```{dropdown} Construction technology
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
