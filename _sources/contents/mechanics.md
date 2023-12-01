@@ -9,7 +9,7 @@ Although the OER for mechanics is sufficient, it is difficult to find sources th
 
 
 ---
-#```{dropdown} Statics of Structures
+```{dropdown} Statics of Structures
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
@@ -25,11 +25,11 @@ Although the OER for mechanics is sufficient, it is difficult to find sources th
 |                     | Interpret the interplay of forces from a given N-, V- and M-line  <details><summary>➤ Student can:</summary>- Find the shear diagram from a moment diagram <br>- Find the normal diagram from a shear diagram<br></details>                                                                                                                                   | - [Shear and moment diagrams](https://www.degreetutors.com/shear-and-moment-diagrams/)[^15]<br>- [Axial, shear and moment diagram example calculations](https://structnotes.com/2018/06/22/axial-shear-moment-diagrams/)[^16]                              |- Shear and moment diagrams: until chapter 5 
 |                      | Checking the equilibrium of forces and moments of nodes <details><summary>➤ Student can:</summary>- Do a simple hand calculation to check for node equilibrium</details>                                                                                                                                    | [Trusses and frames](https://engineeringstatics.org/Chapter_06-trusses)[^17]                                |Start from "Trusses" in chapter 6 and do the exercises (ignore 'Machines')
 |                      | Principle of virtual work (alternative formulation for equilibrium) <details><summary>➤ Student can:</summary>- Do a simple hand calculation using virtual work to calculate internal forces </details>                                                                                                                                     |[Virtual work](https://icozct.tudelft.nl/TUD_CT/CT3109/collegestof/arbeid_en_energie/files/les_1UK.pdf)[^18]                                  |Read from page 3 to page 12|
-#```
+```
 
 ---
 
-#```{dropdown} Mechanics of Materials
+```{dropdown} Mechanics of Materials
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
@@ -50,11 +50,11 @@ Although the OER for mechanics is sufficient, it is difficult to find sources th
 |                      | Deformations by bending, diff. equation, "forget-me-nots" <details><summary>➤ Student can:</summary>- Use the forget-me-nots formulas to find the deformation of a beam for different types of loads </details>                                                                                                                                  |[Bending deflection](http://www.aerostudents.com/courses/mechanics-of-materials/mechanicsOfMaterialsFullVersion.pdf)[^29]                                 |Read from chapter 7 to 7.3
 |                      | Moment-area theorem <details><summary>➤ Student can:</summary>- Use the Moment-area theorem to find the deformation of a beam for different types of loads </details>                                                                                                                                 |[Moment-area theory](http://www.aerostudents.com/courses/mechanics-of-materials/mechanicsOfMaterialsFullVersion.pdf)[^29]                                 |Read chapter 7.4
 |                      | Introduction statically indetermined systems   <details><summary>➤ Student can:</summary>- Identify statically indetermined systems </details>                                                                                                                               |[Statically Indeterminate Beams](http://www.aerostudents.com/courses/mechanics-of-materials/mechanicsOfMaterialsFullVersion.pdf)[^29]                                  |Read chapter 7.5|
-#```
+```
 
 ---
 
-#```{dropdown} Solid mechanics / Structural analysis
+```{dropdown} Solid mechanics / Structural analysis
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
 |:------|:--------|:------------------|:---------------------------|
@@ -63,12 +63,12 @@ Although the OER for mechanics is sufficient, it is difficult to find sources th
 |                      | Non-linear material behaviour <details><summary>➤ Student can:</summary>- Identify the non-linear material behaviour for construction materials (mainly concrete and steel)</details>                                                                                                                                |[Non-linear material behaviour](https://enterfea.com/difference-between-linear-and-nonlinear-elastic-material/)[^34]                                 |
 |                      | Three dimensional stresses and strains, isotropy, invariants, deviators  <details><summary>➤ Student can:</summary>- Calculate the stresses and strains of a cross-section in 3D</details>                                                                                                                               |[Stresses in 3D](https://icozct.tudelft.nl/TUD_CT/CT4145/collegestof/files/CT4145Lecture_Notes-version7.pdf)[^19]                                 |Read from chapters 1 to 4
 |                      | Failure criteria of Tresca and Von Mises  <details><summary>➤ Student can:</summary>- Identify the failure criteria of Tresca and Von Mises</details>                                                                                                                               |[Failure models](https://icozct.tudelft.nl/TUD_CT/CT4145/collegestof/files/CT4145Lecture_Notes-version7.pdf)[^19]                                 |Read chapter 6
-|                      | Numerical methods for structural analysis (use of framework software) <details><summary>➤Student can:</summary>- Use a software to do structural engineering calculations</details>                                                                                                                                |None needed |Student is familiar with engineering programs that use the Finite Element Method (FEM) to present results according to a given input|
-#```
+|                      | Numerical methods for structural analysis (use of framework software) <details><summary>➤ Student can:</summary>- Use a software to do structural engineering calculations</details>                                                                                                                                |None needed |Student is familiar with engineering programs that use the Finite Element Method (FEM) to present results according to a given input|
+```
 
 ---
 
-#```{dropdown} Dynamics
+```{dropdown} Dynamics
 
 
 |Subject        |Topic category / Learning objectives   |Open Educational Resources[^1]  | Remarks |
@@ -81,7 +81,7 @@ Although the OER for mechanics is sufficient, it is difficult to find sources th
 |                      | Mechanical systems with two degrees of freedom (2DOF), without damping  <details><summary>➤ Student can:</summary>- Formulate equations of motion with 2DOF systems for free and forced vibration <br>- Apply initial conditions <br>- Solve problems with forced viberations for harmonic, exponential, step and impact/pulse loads    </details>                                                                                                                               |[2DOF: undamped](https://engcourses-uofa.ca/books/vibrations-and-sound/multiple-degree-of-freedom-systems/free-vibrations-of-two-degree-of-freedom-systems-2/)[^38]                                 |
 |                      | Formulate equations of motion (mass matrix, stiffness matrix)  <details><summary>➤ Student can:</summary>- Formulate mass matrix for 2DOF systems <br>- Formulate stiffness matrix for 2DOF systems    </details>                                                                                                                                |[2DOF: undamped](https://engcourses-uofa.ca/books/vibrations-and-sound/multiple-degree-of-freedom-systems/free-vibrations-of-two-degree-of-freedom-systems-2/)[^39]                                 |Start from topic 8.1.1
 |                      | Determination of eigenfrequencies and eigenperiods. Forced response for harmonic loads                                                                                                                                 |[2DOF: forced vibration](https://engcourses-uofa.ca/books/vibrations-and-sound/multiple-degree-of-freedom-systems/forced-vibrations-of-undamped-two-degree-of-freedom-systems/)[^40]                                  | |
-#```
+```
 
 --- 
 
