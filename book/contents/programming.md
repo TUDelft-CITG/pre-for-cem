@@ -1,6 +1,6 @@
 # Programming
 
-Welcome to the Python Programming Course. The python course is accessible for free. The course is designed to prepare you for your MSc program in civil engineering at TU Delft. It will also help you build a solid foundation in programming that will benefit you throughout your academic and professional career.
+Programming is an important skill that will directly be used in the first two quarters of the MSc Programme. At our Faculty, Python is the language used most, rather than Matlab or other languages. The reason for this is a.o. Python's broad applicability and the fact that is is powerful and free. Below, you can find access to a quick introductory course. This python course is accessible for free. It will also help you build a solid foundation in programming that will benefit you throughout your academic and professional career.
 
 To enter the course please click on this [link](https://tudelft-citg.github.io/learn-python/Intro_in_ToC.html) or visit: 
 
