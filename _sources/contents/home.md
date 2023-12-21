@@ -1,5 +1,7 @@
-# Home
+# PRE-for-CEM wishes you a good holiday season!
+We wish everyone a good Christmas and New Year break, an we hope to see you back in 2024!
 
+# Home
 This Jupyter Book aims to provide you with easy access to an overview of prerequisite knowledge needed to successfully start our MSc degree Civil Engineering at TU Delft. You can check yourself whether you have the necessary knowledge, and estimate which subjects you may need to repair or refresh before coming to Delft. The Jupyter Book was made in the educationalal research project called PRE-for-CEM (PRErequisite knowledge for Civil Engineering Master) during 2022 and 2023, and is still work in progress.
 
 
