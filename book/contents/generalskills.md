@@ -10,7 +10,7 @@ The following academic skills are indispensable for future civil engineers, but 
 
 * **3D-modelling, CAD, BIM** – you should be capable of using on an elementary level 3D drafting software such as AutoCAD, Revit, Civil 3D, Rhinoceros 3D, Tekla BIMsight, Trible Connect or comparable. 
 
-*  [Programming](https://tudelft-citg.github.io/pre-for-cem/contents/programming.html) – you are skilled on a basic level in using at least one programming language to code and solve repetitive or labour-intensive tasks in the seven container subjects. Python and/or Matlab are the most helpful, but also C++, C#, JavaScript, Visual Basic .NET, or other languages can be useful.
+*  <a href="https://tudelft-citg.github.io/pre-for-cem/contents/programming.html" target="_blank">Programming</a> – you are skilled on a basic level in using at least one programming language to code and solve repetitive or labour-intensive tasks in the seven container subjects. Python and/or Matlab are the most helpful, but also C++, C#, JavaScript, Visual Basic .NET, or other languages can be useful.
 
 *  **Clear calculation** – you have learned how to set up and elaborate a calculation in such a way that it is understandable for yourself, for colleagues, and for controlling authorities, by making clear the assumptions, boundary conditions, intermediate steps and outcomes in a clear manner, using clarifying text, graphs, sketches and tables to explain what you are doing.
 
